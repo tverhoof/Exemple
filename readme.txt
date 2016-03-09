@@ -10,3 +10,4 @@ Je commence à coder une nouvellle fonctionnalité proprement
 Je termine le dev de la fonctionnalité
 
 Utilisateur 2 travaille un peu
+Modif de U1
